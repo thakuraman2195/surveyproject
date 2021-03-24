@@ -1,0 +1,25 @@
+{
+    "React":[
+        {
+            "qid" :1, 
+            "ques" : "What is this",
+            "ques_options" : {"a" : "This is shit","b": "This is cool","c": "This is this","d": "This is amazing"}
+        },{
+            "qid" :2, 
+            "ques" : "what is that",
+            "ques_ans" : {"a" : "That is a guitar","b": "that is something shitty","c": "That is this","d": "That is bad"}
+        },{
+            "qid" :3, 
+            "ques" : "what is what",
+            "ques_ans" : {"a" : "what is shit","b": "what is this","c": "what is that","d": "what are you up to"}
+        }],
+    "PHP":[{
+            "qid" :1, 
+            "ques" : "how is rice",
+            "ques_ans" : {"a" : "rice is good","b": "rice is shitty","c": "rice is amazing","d": "rice is bad"}
+    },{
+            "qid" :2, 
+            "ques" : "how is UIC",
+            "ques_ans" : {"a" : "UIC is good","b": "UIC is cool","c": "UIC is cold","d": "UIC is amazing"}
+        }]
+}
